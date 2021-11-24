@@ -25,6 +25,8 @@ categories:
     label: 'infra'
   - title: '⚠️  Breaking Changes'
     label: 'BREAKING CHANGE'
+  - title: '🔥 Hotfix'
+    label: 'hotfix'
 change-template: '* $TITLE (#$NUMBER) @$AUTHOR'
 exclude-labels:
   - 'skip-changelog'
